@@ -39,5 +39,6 @@ function coupon(discount) {
 console.log('coupon output:');
 console.log(coupon(0.5)([10, 6, 3, 9])); // [ 5, 3, 1.5, 4.5 ]
 
+
 // Challenge: Can you define the coupon function and its returned function in
 // one line?
